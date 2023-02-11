@@ -3,4 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masq-21dev&layout=compact&theme=nord)
 
 
+ini Qomar
+
+
 
