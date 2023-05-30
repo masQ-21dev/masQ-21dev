@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
 <b style = {font-weight: 600}>Visitors Count</b>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{masQ-21dev}/count.svg" /></p> 
 <br>
-</div>
+</div> -->
 
 <!-- <h2 align="center"><u>About me</u></h2>
 Usually called Fitra, I am a student at the Institut Teknologi Sumatera (ITERA). I majored in Informatics Engineering and now I focus on Web Development with more than 5 years of experience. -->
