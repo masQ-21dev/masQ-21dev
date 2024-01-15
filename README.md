@@ -6,7 +6,7 @@
 
 <!-- <h2 align="center"><u>About me</u></h2>
 Usually called Fitra, I am a student at the Institut Teknologi Sumatera (ITERA). I majored in Informatics Engineering and now I focus on Web Development with more than 5 years of experience. -->
-
+<!--
 <h2 align="center"><u>Skills</u></h2>
 <p style="display: inline-block;" align="center">
   <kbd>
@@ -33,6 +33,9 @@ Usually called Fitra, I am a student at the Institut Teknologi Sumatera (ITERA).
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </kbd>
 </p>
+-->
+
+\![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masqomar21&layout=compact)
 
 <div align="center">
 
