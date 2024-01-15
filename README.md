@@ -35,7 +35,7 @@ Usually called Fitra, I am a student at the Institut Teknologi Sumatera (ITERA).
 </p>
 -->
 
-\![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masqomar21&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masqomar21&layout=compact)
 
 <div align="center">
 
