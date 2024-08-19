@@ -1,79 +1,39 @@
-<!-- <div align="center">
-<b style = {font-weight: 600}>Visitors Count</b>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{masQ-21dev}/count.svg" /></p> 
-<br>
-</div> -->
+<h1 >Hi 👋, I'm Muhammad Qomarudin | masqomar21</h1>
+<h3 >Junior Fullstack Developer</h3>
 
-<!-- <h2 align="center"><u>About me</u></h2>
-Usually called Fitra, I am a student at the Institut Teknologi Sumatera (ITERA). I majored in Informatics Engineering and now I focus on Web Development with more than 5 years of experience. -->
-<!--
-<h2 align="center"><u>Skills</u></h2>
-<p style="display: inline-block;" align="center">
-  <kbd>
-    <kbd>Front-end</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Back-end</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Library/FrameWorks</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  </kbd>
+&nbsp;
+🛠️ &nbsp;My Tech Stacks
+
+---
+
+![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=flat&logo=laravel)&nbsp;
+![Next](https://img.shields.io/badge/-Next-0D1117?style=flat&logo=nextdotjs)&nbsp;
+![Nest](https://img.shields.io/badge/-Nest-0D1117?style=flat&logo=nestjs&logoColor=red)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-0D1117?style=flat&logo=vuedotjs)&nbsp;
+![Django](https://img.shields.io/badge/-Django-0D1117?style=flat&logo=django)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind-0D1117?style=flat&logo=tailwind-css)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=flat&logo=bootstrap)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JS-0D1117?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TS-0D1117?style=flat&logo=typescript)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=flat&logo=c%2B%2B&logoColor=blue)
+![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
+![Github](https://img.shields.io/badge/-Github-0D1117?style=flat&logo=github)&nbsp;
+![Gitlab](https://img.shields.io/badge/-Gitlab-0D1117?style=flat&logo=gitlab)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-0D1117?style=flat&logo=cypress)&nbsp;
+![Arduino](https://img.shields.io/badge/-Arduino-0D1117?style=flat&logo=arduino)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Unity](https://img.shields.io/badge/-Unity-0D1117?style=flat&logo=unity)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=flat&logo=figma)&nbsp;
+![Spark AR](https://img.shields.io/badge/-Spark%20AR-0D1117?style=flat&logo=spark-ar&logoColor=turquoise)&nbsp;
+
+<hr>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/masqomar21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad qomarudin" height="30" width="40" /></a>
+<a href="https://instagram.com/masqomar.21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="masqomar21" height="30" width="40" /></a>
 </p>
--->
-
-
-
-<div align="center">
-
-<!-- ![Metrics](https://metrics.lecoq.io/masQ-21dev?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FJakarta) -->
-
-![Metrics](https://metrics.lecoq.io/masqomar21?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FJakarta)
-
-</div>
-
-
-
-
-
-<div align="center">
-
-<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=masq-21dev&show_icons=true&theme=material-palenight) -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=masqomar21&theme=calm&date_format=M%20j%5B%2C%20Y%5D)
-<br>
-<br>
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masqomar21&layout=compact&theme=nord)
-
-</div>
-
-<h2 align="center"><u>Contact</u></h2>
-<div align="center">
-<nav>
-<a href="https://www.linkedin.com/in/masqomar21" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-  <a href="https://instagram.com/masqomar.21" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-<a href="mailto:mqomarudin@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-<a href="https://github.com/masQ-21dev">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github">
-</a>
-</nav>
-</div>
